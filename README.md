@@ -1,2 +1,2 @@
-# whip
-WebRTC-HTTP ingestion protocol (WHIP) in Rust
+# WHIP
+WebRTC-HTTP Ingestion Protocol (WHIP) in Rust
